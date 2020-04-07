@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2020/04/07/hello-world/"/>
-      <url>/2020/04/07/hello-world/</url>
+      <title>self-into</title>
+      <link href="/2020/04/07/self-into/"/>
+      <url>/2020/04/07/self-into/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="基本情况"><a href="#基本情况" class="headerlink" title="基本情况"></a>基本情况</h1><p>我是上海交通大学IEEE试点班计算机科学与技术方向在读本科生，将于2020年下半年直研进入本校计算机系攻读硕士，研究方向为计算机视觉。</p><h1 id="教育经历"><a href="#教育经历" class="headerlink" title="教育经历"></a>教育经历</h1><ul><li>本科 计算机科学与技术（IEEE试点班）<br>  上海交通大学<br>  2016/09 - 现在</li></ul><h1 id="研究领域"><a href="#研究领域" class="headerlink" title="研究领域"></a>研究领域</h1><ul><li>视频辅助的图像动作识别 (Video Auxiliaried Iamge Action Classification)</li></ul><h1 id="获得荣誉"><a href="#获得荣誉" class="headerlink" title="获得荣誉"></a>获得荣誉</h1><ul><li>上海交通大学B等优秀奖学金</li></ul>]]></content>
       
       
       
