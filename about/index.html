@@ -220,11 +220,11 @@
                 <script>
                     var typed = new Typed("#subtitle", {
                         strings: ['上海交通大学 | IEEE试点班 | 计算机视觉',''],
-                        startDelay: ,
-                        typeSpeed: ,
+                        startDelay: 300,
+                        typeSpeed: 100,
                         loop: false,
-                        backSpeed: ,
-                        showCursor: 
+                        backSpeed: 50,
+                        showCursor: true
                     });
                 </script>
                 
@@ -260,6 +260,11 @@
 
 
 
+<div class="statis">
+    <span class="count"><a href="/tags">1</a></span>
+    <span class="name">标签</span>
+</div>
+
 
                     </div>
                     <div class="col s12 m12 l4">
@@ -279,6 +284,11 @@
 
 
 
+
+<div class="statis">
+    <span class="count"><a href="/tags">1</a></span>
+    <span class="name">标签</span>
+</div>
 
 
                                 </div>
@@ -478,7 +488,7 @@
         xAxis: [
             {
                 type: 'category',
-                data: []
+                data: ["个人资料"]
             }
         ],
         yAxis: [
@@ -491,7 +501,7 @@
                 type: 'bar',
                 color: ['#82d3f4'],
                 barWidth : 18,
-                data: [],
+                data: [1],
                 markPoint: {
                     symbolSize: 45,
                     data: [{
